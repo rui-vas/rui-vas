@@ -6,7 +6,7 @@
 - 👀 I’m interested in Systems - AI, Robotics, Biology and Psychology
 - 🌱 I’m currently learning how to use multi-agent AI systems - autogen, langchain, crewai
 - 🚀 I’m looking to work on large-scale applications of AI with positive impact
-- 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 91 9154539, on [github](https://github.com/rui-vas-tech), or [linkedin](https://linkedin.com/in/rui-vas)
+- 📫 How to reach me at rui.vas10x@gmail.com
 - 🫀 I stay in good health by practicing meditation, QiGong, Kung Fu, swimming, dancing and time in nature
 
 ## Experience
