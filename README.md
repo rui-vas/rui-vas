@@ -117,6 +117,11 @@ companies, ~1k attendees, 10k€ profit.
 
 ## Volunteering
 
+**3. Mindvalley University Youth Programs**
+- Joined Mindvalley pursuing my passion for education & metaphysics
+- Built a data app using streamlit to resolve ticketing issues
+- Supported the Youth Programs for 200 kids & teens
+
 **2. Innovation Mentor @ ETIC - 2019-23**
 - Mentoring students under the project ETIC IDEA
 - The students I mentored won 2 awards for projects developed for FNAC and Fundação Gil
