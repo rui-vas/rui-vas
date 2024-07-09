@@ -10,6 +10,11 @@
 
 ## Experience
 
+**8. AI Product Expert @ Altar.io - Lisbon, PT - 2024**
+- Altar is an award-winning product studio, where ex-founders help current innovators define, build and ship great products
+- 90+ products launched to date
+- Bringing my experience in AI/ML and startups to the mix
+
 **7. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
 - Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
 - Developed process to produce audiobooks with TTS from a book, passing the "humanity" test, and publishing a full AI-Gen audiobook on Audible
