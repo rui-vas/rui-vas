@@ -3,8 +3,7 @@
 
 - 👋 Hi, I’m Rui Vas (he/him)
 - 🗣️ I speak Portuguese, English, Spanish and a bit of French
-- 👀 I’m interested in Systems - AI, Robotics, Biology and Psychology
-- 🌱 I’m currently learning how to use multi-agent AI systems - autogen, langchain, crewai
+- 👀 I think in Systems - AI, Robotics, Biology and Psychology
 - 🚀 I’m looking to work on large-scale applications of AI with positive impact
 - 🫀 I stay in good health by practicing meditation, QiGong, Kung Fu, swimming, dancing and spending time in nature
 
