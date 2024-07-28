@@ -144,6 +144,18 @@ neighbourhoods.
 Rui Vas
 2x Founder / AI Product Expert / Speaker // Tech 4 Good / Education / Health / Sustainability
 
+## About
+An awarded Systems Engineer with a Product focus, Rui co-founded two AI startups - across Silicon Valley, Switzerland and Portugal - led MLOps products at Canonical | Ubuntu Linux, and built a few robots and apps.
+
+Highlights:
+2016 - Awarded "Best Portuguese MSc. thesis in Robotics" by Portuguese Robotics Society.
+2017 - Published in world's top robotics conference (IROS Vancouver). Helped develop a pharma automation robot for Swiss company.
+2018 - Launched a Deep Learning startup between Switzerland and Silicon Valley. Graduated from Silicon Valley accelerator.
+2019 - Lead growth at Gen AI AdTech start-up partnering with Google, restructuring product offer. Innovation mentor at ETIC + Founder Institute.
+2020/21 - Lead product and go-to-market for AI/ML at Canonical/Ubuntu Linux, reporting to the CEO.
+2021/23 - Founded Radiobooks - a mission to accelerate self-education via Audiobooks & AI Text-to-Speech
+2023 - Published first AI generated audiobook to Audible - working at AI venture studio
+
 ## Experience
 
 ### AI Product Expert
