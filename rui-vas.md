@@ -1,0 +1,306 @@
+# CV
+Rui Vas
+28 Jul 2024
+
+### Contacts
+rui.vas10x@gmail.com
++351 919154539
+https://github.com/rui-vas
+https://www.linkedin.com/in/rui-vas/
+
+# Senior Product Manager
+
+- 👋 Hi, I’m Rui Vas (he/him)
+- 🗣️ I speak Portuguese, English, Spanish and a bit of French
+- 👀 I think in Systems - AI, Robotics, Biology and Psychology
+- 🚀 I’m looking to work on large-scale applications of AI with positive impact
+- 🫀 I stay in good health by practicing meditation, QiGong, Kung Fu, swimming, dancing and spending time in nature
+
+## Experience
+
+**8. AI Product Expert @ Altar.io - Lisbon, PT - 2024**
+- Altar is an award-winning product studio, where ex-founders help current innovators define, build and ship great products
+- 90+ products launched to date
+- Bringing my experience in AI/ML and startups to the mix
+
+**7. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
+- Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
+- Developed process to produce audiobooks with TTS from a book, passing the "humanity" test, and publishing a full AI-Gen audiobook on Audible
+- Automated personalised GPT-based email outreach, generating 92% open rates
+
+**6. Founder @ RadioBooks, Lisbon, PT, 2021-23**
+- Radiobooks helped authors and publishers convert books into audiobooks 10x faster and cheaper with the latest AI.
+- Started the company, built a team of 6, and launched 2 products (B2C & B2B), failed to find P-M fit.
+- Partnered with Nvidia and Microsoft
+
+**5. AI/ML Product Manager @ Canonical/Ubuntu, London, UK, 2020-21**
+- Canonical publishes Ubuntu, the most used Linux
+OS in the world, with partners like Google, AWS, MSFT,
+DELL, Nvidia and customers like Netflix, Tesla, Uber &
+Spotify.
+- Lead product and GTM strategy for Kubeflow and
+MLOps, reporting to the CEO.
+- From 0 to $4M NRR.
+
+	**Documentation Lead @ Kubeflow / Google Vertex AI**
+
+  - I represented Canonical at the Kubeflow opensource community.
+  - Became the #1 contributor outside of Google to documentation.
+  - Lead a docs restructure + release of versions v1.2, v1.3
+
+**4. Head of Growth @ Leadzai, Lisbon, Portugal, 2019**
+- Leadzai raised 7M€+ to help small businesses tap into online ads without risk. 
+- I mapped acquisition funnels, interviewed customers, proposed a product re-design to the CEO and board, and lead the effort.
+
+**3. Program Manager @ Founder Institute, Lisbon, Portugal, 2018-21**
+- after going through the program in Silicon Valley,
+was invited to co-lead the Lisbon cohort
+- co-led sessions across several cohorts of
+entrepreneurs
+- shared frameworks on product, go-to-market, P-M
+fit, branding, team, and all things entrepreneurship
+- invited experienced mentors and led pitch sessions
+
+**2. co-Founder @ TechOS, Palo Alto, California, 2018**
+- TechOS is a centralized marketplace for dev
+freelancers, with standardized price and quality.
+- Created sales pipeline - USA, UK, Switzerland -$100k+
+in the first year.
+- Validated market hypothesis by interviewing 200+
+prospects, devs and CXOs.
+
+**1. Robotics Engineer @ Andrew Alliance, Geneva, Switzerland, 2017**
+- AA's robots make low throughput lab experiments
+reproducible and fast for customers like MIT, Harvard,
+Stanford, P&G, GSK, Roche.
+- Algorithmically optimized dimensions, designed,
+prototyped and tested new robot's components.
+- Identified critical design issue one month into the
+job, developing adopted solution.
+
+
+## Education
+I'm a lifelong learner, follow my curiosity 
+and run lots of experiments in an ongoing basis.
+
+**3. Silicon Valley Accelerator, Founder Institute, Palo Alto, USA, 2018**
+- Early-stage startup accelerator (www.fi.co).
+- Graduated - only 6 out of 27 founders finished.
+
+**2. Research Internship in BioRobotics @ EPFL, Switzerland, 2016-17**
+- Graded 6 out of 6
+- Validated a control theory hypothesis by building a
+quadruped robot in simulation and hardware, two
+types of controllers (C++) and 7-dim data
+visualization tool (Matlab).
+- Work published on world's top robotics conference
+(IROS 2017 Vancouver).
+
+**1. BSc. + MSc. Systems Engineering, IST, Lisbon, 2011-16**
+- #1 out of 165 GPA 
+- Awarded "Best Portuguese MSc. Thesis in Robotics
+2016" by PRS.
+- Elected Delegate for ~1500 MSc. and BSc. students.
+- Elected student board member of IST's Pedagogic
+Council.
+- Led team of 16 to organize career week - 20+
+companies, ~1k attendees, 10k€ profit.
+
+
+## Courses & Certifications
+**3. Udacity**
+- Data Engineering Nanodegree: SQL, Cassandra, Spark, Airflow
+
+**2. Coursera**
+- Machine Learning (Stanford)
+- Unix (John Hopkins)
+- Corporate Finance (Wharton)
+- Private Equity and Venture Capital (Bocconi)
+
+**1. Udemy**
+- Data: SQL, MongoDB
+- Front-End: CSS, Sass, JavaScript, React, Redux, NodeJS 
+- DevOps: CI/CD, Docker, Kubernetes
+- Blockchain: Ethereum Solidity
+
+## Volunteering
+
+**3. Mindvalley University Youth Programs**
+- Joined Mindvalley pursuing my passion for education & metaphysics
+- Built a data app using streamlit to resolve ticketing issues
+- Supported the Youth Programs for 200 kids & teens
+
+**2. Innovation Mentor @ ETIC - 2019-23**
+- Mentoring students under the project ETIC IDEA
+- The students I mentored won 2 awards for projects developed for FNAC and Fundação Gil
+
+**1. Boy Scouts, 2003-2013**
+- Works with elderly, children and actions in social
+neighbourhoods.
+- Lead group of 25 by age 14.
+
+
+# Linked In
+Rui Vas
+2x Founder / AI Product Expert / Speaker // Tech 4 Good / Education / Health / Sustainability
+
+## Experience
+
+### AI Product Expert
+Altar.io · Part-time
+Mar 2024 - Present 
+- Altar is an award-winning product studio, where ex-founders help current innovators define, build and ship great products
+- 90+ products launched to date
+- Bringing my experience in AI/ML and startups to the mix- Altar is an award-winning product studio, where ex-founders help current innovators define, build and ship great products - 90+ products launched to date - Bringing my experience in AI/ML and startups to the mix
+
+
+### AI Technical Product Manager
+ai.pt · Full-time
+Aug 2023 - Dec 2023 · 5 mos
+Lisbon, Portugal
+- Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
+- Developed process to produce audiobooks with TTS from a book, passing the "humanity" test, and publishing a full AI-Gen audiobook on Audible
+- Automated personalised GPT-based email outreach, generating 92% open rates- Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon - Developed process to produce audiobooks with TTS from a book, passing the "humanity" test, and publishing a full AI-Gen audiobook on Audible - Automated personalised GPT-based email outreach, generating 92% open rates
+
+
+### Founder & Chief Product - AI Text to Speech for Audiobooks
+radiobooks · Full-time
+Aug 2021 - Aug 2023 · 2 yrs 1 mo
+- Envisioned Radiobooks as a mission to spread knowledge in audiobook format, leveraging cost efficiency that the latest AI text-to-speech would bring to audio production
+- Took part in Microsoft for Startups and Nvidia ignite programs
+- Failed to find product-market fit
+
+B2C (first 6 mo):
+coded MVP, launched a B2C audible-like app for Portugal with public domain books, applied gorilla marketing to acquire 2k users, failed to get copyrights from local publishers, low LTV.
+
+B2B (second 18 mo): 
+with a better understanding of the market, pivoted towards being an audio production service provider for publishing companies. Sold paid POCs to publishers and book distribution companies with a catalog of ~700k books (Bookwire, LeYa, Porto Editora, Clube de Autores), with 90% margin. Failed to convert POCs into recurring sales. Couldn't get audio quality to human-like. HITL approach proved to be costly and high in ops for marginal gains in quality. Built a small team with limited resources and worked on fundraising. 
+
+Wrong key assumption: 
+we build our audio production tech on top of Azure TTS, which was at the time better than Google and Amazon. I assumed that the best quality TTS would come from one of these big players, and their technology was producing audio out of SSML files. So we worked on optimising for SSML generation and adding value with HITL, while other startups like ElevenLabs (who just raised $80M) managed to outperform the big players in audio quality with proprietary tech - kudos to them!- Envisioned Radiobooks as a mission to spread knowledge in audiobook format, leveraging cost efficiency that the latest AI text-to-speech would bring to audio production - Took part in Microsoft for Startups and Nvidia ignite programs - Failed to find product-market fit B2C (first 6 mo): coded MVP, launched a B2C audible-like app for Portugal with public domain books, applied gorilla marketing to acquire 2k users, failed to get copyrights from local publishers, low LTV. B2B (second 18 mo): with a better understanding of the market, pivoted towards being an audio production service provider for publishing companies. Sold paid POCs to publishers and book distribution companies with a catalog of ~700k books (Bookwire, LeYa, Porto Editora, Clube de Autores), with 90% margin. Failed to convert POCs into recurring sales. Couldn't get audio quality to human-like. HITL approach proved to be costly and high in ops for marginal gains in quality. Built a small team with limited resources and worked on fundraising. Wrong key assumption: we build our audio production tech on top of Azure TTS, which was at the time better than Google and Amazon. I assumed that the best quality TTS would come from one of these big players, and their technology was producing audio out of SSML files. So we worked on optimising for SSML generation and adding value with HITL, while other startups like ElevenLabs (who just raised $80M) managed to outperform the big players in audio quality with proprietary tech - kudos to them!
+
+
+### Product Manager - AI/ML, MLOps
+Canonical · Full-time
+Apr 2020 - Aug 2021 · 1 yr 5 mos
+London, England, United Kingdom
+- Canonical is the publisher of Ubuntu, the most used Linux OS in the world.
+- I worked directly with the founder and CEO, leading product, go-to-market, and OSS strategies for MLOps and Kubeflow.
+
+
+### Docs Lead
+Kubeflow
+Apr 2020 - Aug 2021 · 1 yr 5 mos
+- Kubeflow is at the base of Google's Vertex AI.
+- I represented Canonical at the Kubeflow open-source community.
+- Became the #1 contributor outside of Google to documentation.
+- Lead a docs restructure + release of versions v1.2, v1.3
+
+
+### Program Manager
+Founder Institute
+2018 - Mar 2020 · 2 yrs 3 mos
+Lisbon Area, Portugal
+- after going through the program in Silicon Valley, was invited to co-lead the Lisbon cohort.
+- co-led sessions across several cohorts of entrepreneurs
+- shared frameworks on product, go-to-market, P-M fit, branding, team, and all things entrepreneurship
+- invited experienced mentors and led pitch sessions
+
+
+### Head of Growth
+Leadzai · Full-time
+Feb 2019 - Sep 2019 · 8 mos
+Lisbon Area, Portugal
+- Leadzai raised 7M€+ to help small businesses tap into online ads without risk. 
+- I mapped acquisition funnels, interviewed customers, proposed a product re-design and led it.
+
+
+
+### Co-Founder & CEO
+Techos · Self-employed
+Jan 2018 - Jan 2019 · 1 yr 1 mo
+Palo Alto, California
+- TechOS was a centralized marketplace for dev freelancers, with standardized price and quality.
+- created sales pipeline across USA, UK and Switzerland.
+- validated market hypothesis by interviewing 200+ prospects, devs and CXOs.
+
+
+### Robotics Engineer
+Andrew Alliance
+Mar 2017 - Sep 2017 · 7 mos
+Geneva Area, Switzerland
+- AA's robots make low throughput lab experiments reproducible and fast for customers like MIT,
+Harvard, Stanford, P&G, GSK and Roche.
+- I algorithmically optimized dimensions, designed, prototyped and tested a new robot's components.
+- I identified critical design issue one month into the job, developing adopted solutions.
+
+
+## Education
+
+### EPFL
+Research Internship, Robotics
+2016 - 2017
+Grade: 6/6
+Proposed and tested hypothesis on animal locomotory control by building a quadruped robot in simulation and hardware, two types of controllers (C++) and 7-D data visualization tool (Matlab).
+- Published on world's top robotics conference (IROS 2017 Vancouver)Proposed and tested hypothesis on animal locomotory control by building a quadruped robot in simulation and hardware, two types of controllers (C++) and 7-D data visualization tool (Matlab). - Published on world's top robotics conference (IROS 2017 Vancouver)
+
+
+### Instituto Superior Técnico
+MSc, Mechatronic Systems Engineering
+2011 - 2016
+Grade: 18/20 - top 1%
+- Awarded Best Portuguese MSc. Thesis in Robotics by PRS
+- Student Delegate & Pedagogic Council board member
+- Led team of 16 to organize career week (MecanIST IV - 2014)
+
+
+### Founder Institute
+Silicon Valley Startup Accelerator
+May 2018 - Oct 2018
+6 out of 27 founders graduated
+
+
+## Licences & Certifications
+
+Data Engineering Nanodegree
+Udacity
+Issued Jan 2022
+
+Private Equity & Venture Capital (Bocconi)
+Coursera
+Issued Sep 2019
+
+Full Stack Universal React with Redux, NodeJS and Mongo DB
+Udemy
+Issued Feb 2018
+
+The Unix Workbench (John Hopkins University)
+Coursera
+Issued Jan 2018
+
+Machine Learning (Stanford)
+Coursera
+Issued Feb 2017
+
+Athens Program: Digital Signals and Image processing (grade A)
+Czech Technical University in Prague
+Issued Nov 2014
+
+Automotive Industry and Components
+Ford Motor Company
+Issued Sep 2014
+
+## Testemonials
+
+### Pedro Leão da Cruz
+Engineering Manager @ Canonical
+"Rui is a competent and engaging leader with an incredible ability to tell a story. During our time working together, I've witnessed Rui build a clear vision for a Kubeflow offering from the ground up - including team hiring and product development. He is highly regarded by everyone - C levels and engineers - and comes across as a very empathetic person: the kind of colleague that makes you glad about your workplace."
+
+### Jonathan Sage
+Senior Manager, Data Management at Oportun
+"I got to know Rui this past year when we were both enrolled in the Silicon Valley chapter of Founder Institute. I was immediately impressed with his drive and work ethic. He was accepted to the Lisbon chapter but due to factors outside of his control, his cohort's start date was pushed back several months. Rather than accept downtime, he took it upon himself to find a cohort to join with an earlier start date and within a few weeks, moved to the US and began working. 
+
+Our program was extremely challenging, but Rui was one of the few people that was able to complete it. I can say for certain that his analytical, organizational and leadership skills all had a hand in leading him to graduation. Most impressive to me though was Rui's validation of every assumption and his willingness to start over despite time and effort invested in a given path. To be clear: this did not mean that Rui would fall behind. It meant that he did what it took to stay current or even ahead with the rest of the cohort. To me, that says that Rui will always handle every task that is presented to him with an amazing determination to get it done. In fact, early in our program I had actually hired Rui to help me with an aspect of my company because I knew that no matter what, he could execute. As a business owner who monitors expenses closely, I had zero issues in doing so as I knew it would be money well invested. 
+
+Looking forward to working with Rui again!"
+
