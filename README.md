@@ -127,5 +127,5 @@ companies, ~1k attendees, 10k€ profit.
 
 **1. Boy Scouts, 2003-2013**
 - Works with elderly, children and actions in social
-neighbourhoods.
-- Lead group of 25 by age 14.
+neighbourhoods
+- Lead group of 25 by age 14
