@@ -1,5 +1,5 @@
 
-# Senior Product Manager
+# Founder / AI Educator / Product Lead
 
 - 👋 Hi, I’m Rui Vas (he/him)
 - 🗣️ I speak Portuguese, English, Spanish and a bit of French
