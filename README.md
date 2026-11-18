@@ -1,4 +1,4 @@
-# 3x Founder / AI Educator / Speaker / Venture Builder
+# 4x Founder / AI Educator / Speaker / Venture Builder
 
 - 👋 Hi, I’m Rui Vas (he/him)
 - 🗣️ I speak Portuguese, English, Spanish and a bit of French
